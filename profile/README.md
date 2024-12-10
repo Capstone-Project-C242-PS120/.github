@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Capstone-Project-C242-PS120/profile/blob/d1d34d8c679af63ea693d885b9d4fb1ec1db7331/assets/SiTeja_logo.png" alt="SiTeja Logo" width="300" />
+  <img src="https://github.com/Capstone-Project-C242-PS120/.github/blob/c711f73cbe5c263ac1b8b061312c44317fd056de/assets/SiTeja%20icon.png" alt="SiTeja Logo" width="300" />
   <h1>Teja: Where Tasty Meets Healthy!</h1>
 </div>
 
@@ -81,7 +81,7 @@
 
 # 📱 Mobile Development
 <div align="center">
-  <img src="https://github.com/Capstone-Project-C242-PS120/profile/blob/425c385ec8d052714b7174c608730dd0b9fa6a47/assets/md.jpeg" alt="MD Assets" width="1000" />
+  <img src="https://github.com/Capstone-Project-C242-PS120/.github/blob/c711f73cbe5c263ac1b8b061312c44317fd056de/assets/md.jpeg" alt="MD Assets" width="1000" />
 </div>
 <p align="justify">
   <b>Teja</b> is a mobile application developed using Kotlin, focusing on providing a seamless user experience with modern design and robust architecture. The app offers powerful features such as scanning nutritional data, personalized recommendations, and gamification. Built with a clean MVVM architecture and leveraging cutting-edge libraries like Retrofit and Coroutines, Teja ensures high performance and maintainability.
@@ -98,5 +98,5 @@
 
 # 🙏 Special Thanks  
 <div align="center">
-  <img src="https://github.com/Capstone-Project-C242-PS120/profile/blob/d1d34d8c679af63ea693d885b9d4fb1ec1db7331/assets/specialthanks.png" alt="Special Thanks" width="700" />
+  <img src="https://github.com/Capstone-Project-C242-PS120/.github/blob/c711f73cbe5c263ac1b8b061312c44317fd056de/assets/specialthanks.png" alt="Special Thanks" width="700" />
 </div>
