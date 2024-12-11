@@ -7,6 +7,7 @@
 
 # 📖 Table of Contents  
 - [📘 About The Project](#-about-the-project)
+- [📷 Documentation](#-documentation)
 - [👋 Us](#-us)
 - [📂 Repository](#-repository)
   * [☁️ Cloud Computing](#-cloud-computing)
@@ -35,6 +36,14 @@
 </p>
 
 ---
+# 📷 Documentation 
+<div align="center">
+  <img src="https://github.com/Capstone-Project-C242-PS120/.github/blob/c711f73cbe5c263ac1b8b061312c44317fd056de/assets/md.jpeg" alt="MD Assets" width="1000" />
+</div>
+<p align="justify">
+
+---
+
 
 # 👋 Us  
 | ID          | NAME                     | PATH               | UNIVERSITY              | CONTACT                                                                                                                                      |  
@@ -80,10 +89,6 @@
 ---
 
 # 📱 Mobile Development
-<div align="center">
-  <img src="https://github.com/Capstone-Project-C242-PS120/.github/blob/c711f73cbe5c263ac1b8b061312c44317fd056de/assets/md.jpeg" alt="MD Assets" width="1000" />
-</div>
-<p align="justify">
   <b>Teja</b> is a mobile application developed using Kotlin, focusing on providing a seamless user experience with modern design and robust architecture. The app offers powerful features such as scanning nutritional data, personalized recommendations, and gamification. Built with a clean MVVM architecture and leveraging cutting-edge libraries like Retrofit and Coroutines, Teja ensures high performance and maintainability.
 
 <b>Technology Highlights :</b> 
