@@ -68,9 +68,28 @@
 ---
 
 # ☁️ Cloud Computing 
-<p align="justify">
-  Lorem Ipsum is simply dummy text of the printing and typesetting industry. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
-</p>
+
+The **Teja - Teman Jajan** application utilizes **Google Cloud** to power backend operations using **NestJS** and food analysis with **FastAPI**. The infrastructure prioritizes scalability, security, and seamless integration. Below is an overview of the architecture:
+
+- **Source Code Management**  
+  All source code is managed in **GitHub Repository** for version control and team collaboration.
+
+- **Continuous Integration (CI)**  
+  CI/CD pipelines are automated using **Cloud Build**, generating Docker images from the source code.
+
+- **Artifact Registry**  
+  Built Docker images are stored in **Artifact Registry** for secure and efficient deployments.
+
+- **Deployment via Cloud Run**  
+  - **NestJS** is deployed on **Google Cloud Run** to handle REST API requests with high performance and scalability.  
+  - **FastAPI** is used for food OCR analysis to extract nutritional data from food images.
+
+- **Cloud SQL and Cloud Storage**  
+  - **Cloud SQL**: Stores application data, including user details, food information, and analysis results.  
+  - **Cloud Storage**: Used for saving food images and machine learning models for OCR functionality.
+
+- **API Communication**  
+  REST API services are provided by the backend and accessed by the Android application to deliver real-time data to users.
 
 ---
 
